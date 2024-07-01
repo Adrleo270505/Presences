@@ -142,7 +142,7 @@ presence.on("UpdateData", async () => {
 	let presenceData: PresenceData = {
 		type: ActivityType.Listening,
 		largeImageKey:
-			"https://cdn.rcd.gg/PreMiD/websites/S/SoundCloud/assets/logo.png",
+			"https://cdn.discordapp.com/attachments/1099772486876418190/1257431949287493662/419679-1x1_SoundCloudLogo_cloudmark-f5912b-large-1645807040.jpg?ex=66846242&is=668310c2&hm=ae73f7d9e6f7879f196150086dbe31ef62aff2a80edb72142dd832605909a485&",
 		startTimestamp: elapsed,
 	};
 
